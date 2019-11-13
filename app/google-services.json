@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96291934377",
+    "firebase_url": "https://gameify-1d069.firebaseio.com",
+    "project_id": "gameify-1d069",
+    "storage_bucket": "gameify-1d069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96291934377:android:1fa9cdf18055e4ae0c19b8",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96291934377-mf20g3qsclnj2rbn35j42o3r7te3gl9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRNu1TuA9Iu5fz8H69BPCzwe9ayzLang"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96291934377-mf20g3qsclnj2rbn35j42o3r7te3gl9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
