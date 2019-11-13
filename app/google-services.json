@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:96291934377:android:1fa9cdf18055e4ae0c19b8",
         "android_client_info": {
-          "package_name": "com.example.firebaseapplication"
+          "package_name": "example.gameifylife"
         }
       },
       "oauth_client": [
